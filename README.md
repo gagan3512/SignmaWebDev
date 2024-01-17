@@ -1,2 +1,2 @@
 # SignmaWebDev
-Web Dev Course
+Web Dev Course - change the branch to master 
